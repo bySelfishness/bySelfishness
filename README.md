@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @bySelfishness
+- 👀 I’m interested in frontend
+- 🌱 I’m currently learning JS/CSS/HTML/React
+- 📫 How to reach me: Telegram - @bySelfishness https://t.me/bySelfishness
